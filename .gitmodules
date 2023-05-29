@@ -1,0 +1,168 @@
+[submodule "44c40f7855a90e289a9477b654e54eb1"]
+	path = 44c40f7855a90e289a9477b654e54eb1
+	url = https://gist.github.com/BlackPropaganda/44c40f7855a90e289a9477b654e54eb1
+[submodule "233fa6900d13caa95c6383e53a92bed1"]
+	path = 233fa6900d13caa95c6383e53a92bed1
+	url = https://gist.github.com/Th3Un1q3/233fa6900d13caa95c6383e53a92bed1
+[submodule "18d73b981249859f17aab3e2bfd2b600"]
+	path = 18d73b981249859f17aab3e2bfd2b600
+	url = https://gist.github.com/djsime1/18d73b981249859f17aab3e2bfd2b600
+[submodule "50c35c46f3ecada7a18c9e5cc203a3f8"]
+	path = 50c35c46f3ecada7a18c9e5cc203a3f8
+	url = https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8
+[submodule "f39dbd82e4e3d99d32ab6a9b8dfc2f55"]
+	path = f39dbd82e4e3d99d32ab6a9b8dfc2f55
+	url = https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55
+[submodule "FlipMiibo"]
+	path = FlipMiibo
+	url = https://github.com/0xz00n/FlipMiibo
+[submodule "zip2Animation"]
+	path = zip2Animation
+	url = https://github.com/CharlesTheGreat77/zip2Animation
+[submodule "Dexvmaster0"]
+	path = Dexvmaster0
+	url = https://github.com/DXVVAY/Dexvmaster0
+[submodule "dexv-graphics"]
+	path = dexv-graphics
+	url = https://github.com/DXVVAY/dexv-graphics
+[submodule "unleashed-firmware"]
+	path = unleashed-firmware
+	url = https://github.com/DarkFlippers/unleashed-firmware
+[submodule "Flipper-Zero-Boards"]
+	path = Flipper-Zero-Boards
+	url = https://github.com/DrB0rk/Flipper-Zero-Boards
+[submodule "FlipperScripts"]
+	path = FlipperScripts
+	url = https://github.com/DroomOne/FlipperScripts
+[submodule "FZ_Animations"]
+	path = FZ_Animations
+	url = https://github.com/Haseosama/FZ_Animations
+[submodule "FZ_graphics"]
+	path = FZ_graphics
+	url = https://github.com/Kuronons/FZ_graphics
+[submodule "AmiiboFlipperConverter"]
+	path = AmiiboFlipperConverter
+	url = https://github.com/Lucaslhm/AmiiboFlipperConverter/
+[submodule "FlipperZeroCases"]
+	path = FlipperZeroCases
+	url = https://github.com/MuddledBox/FlipperZeroCases
+[submodule "FlipperAnimationManager"]
+	path = FlipperAnimationManager
+	url = https://github.com/Ooggle/FlipperAnimationManager
+[submodule "flipperzero-firmware-wPlugins"]
+	path = flipperzero-firmware-wPlugins
+	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins
+[submodule "FlipperZero-WiFi-Scanner_Module"]
+	path = FlipperZero-WiFi-Scanner_Module
+	url = https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module
+[submodule "FlipperZero-Wifi-ESP8266-Deauther-Module"]
+	path = FlipperZero-Wifi-ESP8266-Deauther-Module
+	url = https://github.com/SequoiaSan/FlipperZero-Wifi-ESP8266-Deauther-Module
+[submodule "flipper_sub_plotters_comparers"]
+	path = flipper_sub_plotters_comparers
+	url = https://github.com/ShotokanZH/flipper_sub_plotters_comparers
+[submodule "VertProntoIR2FlipperIR"]
+	path = VertProntoIR2FlipperIR
+	url = https://github.com/SkeletonMan03/VertProntoIR2FlipperIR
+[submodule "csv2ir"]
+	path = csv2ir
+	url = https://github.com/Spexivus/csv2ir
+[submodule "flipp_pomodoro"]
+	path = flipp_pomodoro
+	url = https://github.com/Th3Un1q3/flipp_pomodoro
+[submodule "Flipper"]
+	path = Flipper
+	url = https://github.com/UberGuidoZ/Flipper
+[submodule "Flipper-Skylanders"]
+	path = Flipper-Skylanders
+	url = https://github.com/V0lk3n/Flipper-Skylanders
+[submodule "Flipper-Zero-Pelican-Case-Wifi-Devboard"]
+	path = Flipper-Zero-Pelican-Case-Wifi-Devboard
+	url = https://github.com/Z3BRO/Flipper-Zero-Pelican-Case-Wifi-Devboard
+[submodule "fzfs"]
+	path = fzfs
+	url = https://github.com/dakhnod/fzfs
+[submodule "flipperzero-rs"]
+	path = flipperzero-rs
+	url = https://github.com/dcoles/flipperzero-rs
+[submodule "flipperzero-reversi"]
+	path = flipperzero-reversi
+	url = https://github.com/dimat/flipperzero-reversi
+[submodule "ClassicConverter"]
+	path = ClassicConverter
+	url = https://github.com/equipter/ClassicConverter
+[submodule "mfkey32v2"]
+	path = mfkey32v2
+	url = https://github.com/equipter/mfkey32v2
+[submodule "flipper_toolbox"]
+	path = flipper_toolbox
+	url = https://github.com/evilpete/flipper_toolbox
+[submodule "flipper-xbox-controller"]
+	path = flipper-xbox-controller
+	url = https://github.com/gebeto/flipper-xbox-controller
+[submodule "flipperzero-sesproject"]
+	path = flipperzero-sesproject
+	url = https://github.com/hedger/flipperzero-sesproject
+[submodule "fztea"]
+	path = fztea
+	url = https://github.com/jon4hz/fztea
+[submodule "flipperzero-cli-tools"]
+	path = flipperzero-cli-tools
+	url = https://github.com/lomalkin/flipperzero-cli-tools
+[submodule "flipperzero-protoboards-kicad"]
+	path = flipperzero-protoboards-kicad
+	url = https://github.com/lomalkin/flipperzero-protoboards-kicad
+[submodule "ServoTesterApp"]
+	path = ServoTesterApp
+	url = https://github.com/mhasbini/ServoTesterApp
+[submodule "flipper-zero-animations"]
+	path = flipper-zero-animations
+	url = https://github.com/mnenkov/flipper-zero-animations
+[submodule "flipper-zero_bc_scanner_emulator"]
+	path = flipper-zero_bc_scanner_emulator
+	url = https://github.com/polarikus/flipper-zero_bc_scanner_emulator
+[submodule "FBT-AARCH64"]
+	path = FBT-AARCH64
+	url = https://github.com/qqmajikpp/FBT-AARCH64
+[submodule "FlipperZero-Hardware"]
+	path = FlipperZero-Hardware
+	url = https://github.com/s0ko1ex/FlipperZero-Hardware
+[submodule "SquachWare-CFW"]
+	path = SquachWare-CFW
+	url = https://github.com/skizzophrenic/SquachWare-CFW
+[submodule "Talking-Sasquach"]
+	path = Talking-Sasquach
+	url = https://github.com/skizzophrenic/Talking-Sasquach
+[submodule "FZAnimations"]
+	path = FZAnimations
+	url = https://github.com/stopoxy/FZAnimations
+[submodule "flipperzero-firmware"]
+	path = flipperzero-firmware
+	url = https://github.com/v1nc/flipperzero-firmware
+[submodule "pyFlipper"]
+	path = pyFlipper
+	url = https://github.com/wh00hw/pyFlipper
+[submodule "musicxml2fmf"]
+	path = musicxml2fmf
+	url = https://github.com/white-gecko/musicxml2fmf
+[submodule "flip0anims"]
+	path = flip0anims
+	url = https://github.com/wrenchathome/flip0anims
+[submodule "FlipperZeroAnimation"]
+	path = FlipperZeroAnimation
+	url = https://github.com/CharlesTheGreat77/FlipperZeroAnimation
+[submodule "awesome-flipperzero"]
+	path = awesome-flipperzero
+	url = https://github.com/djsime1/awesome-flipperzero
+[submodule "flipperzero-firmware-rgb"]
+	path = flipperzero-firmware-rgb
+	url = https://github.com/quen0n/flipperzero-firmware-rgb
+[submodule "Flipper-Xtreme"]
+	path = Flipper-Xtreme
+	url = https://github.com/ClaraCrazy/Flipper-Xtreme
+[submodule "flipperzero-mayhem"]
+	path = flipperzero-mayhem
+	url = https://github.com/eried/flipperzero-mayhem
+[submodule "ESP32Marauder"]
+	path = ESP32Marauder
+	url = https://github.com/justcallmekoko/ESP32Marauder
