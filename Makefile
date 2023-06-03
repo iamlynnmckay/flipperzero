@@ -1,4 +1,6 @@
 .PHONY: all
 
 all:
-	chmod +x make.sh && ./make.sh
+	git pull --recurse-submodules && \
+	rm -rf *.tar.gz && \
+	tar cfz flipperzero.tar.gz --exclude='*.tar.gz' --exclude='**/.git/' ../flipperzero --verbose
